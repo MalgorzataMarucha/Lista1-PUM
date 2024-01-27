@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#006400</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="LightGreen">#46b32b</color>
+    <color name="LightGrey">#adadad</color>
+    <color name="LightYellow">#FFFFED</color>
+    <color name="button_bgcolor">#EEEEEE</color>
+    <color name="button_bgcolor_press">#2e89b1</color>
+    <color name="button_bgcolor_enable">#3db5ea</color>
+</resources>
